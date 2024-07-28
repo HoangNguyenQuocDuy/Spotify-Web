@@ -1,0 +1,46 @@
+.detail {
+    padding: 12px;
+    width: 30%;
+    background-color: #334155;
+}
+
+h3 {
+    color: #38bdf8;
+}
+
+h2 {
+    color: #888;
+    margin-bottom: 10px;
+}
+
+.main__pic {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.main__pic img{
+    border-radius: 10px;
+}
+
+.sub__pic {
+    width: 16%;
+}
+
+.sub__pic img {
+    border-radius: 50%;
+}
+
+.name__singer {
+    color: #fff;
+}
+
+img {
+    width: 100%;
+}
+
+.footer {
+    margin: 10px 20px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+

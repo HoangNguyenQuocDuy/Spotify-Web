@@ -1,0 +1,4 @@
+.body__app {
+    height: calc(100vh - 186px);
+    flex-direction: row;
+}
